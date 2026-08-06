@@ -4,7 +4,7 @@ An interactive Tableau portfolio project focused on retail sales performance, re
 
 ## Live Tableau Dashboard
 
-[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/shalinee.singh6168/viz/Shalinee-SinghAssignment/Dashboard3)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/shalinee.singh6168/viz/RetailSalesProfitabilityDashboard-Polished/Dashboard3)
 
 ## Download the Tableau Workbook
 
