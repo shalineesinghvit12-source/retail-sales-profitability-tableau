@@ -6,6 +6,10 @@ An interactive Tableau portfolio project focused on retail sales performance, re
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/shalinee.singh6168/viz/Shalinee-SinghAssignment/Dashboard3)
 
+## Download the Tableau Workbook
+
+[Download the packaged TWBX workbook](workbook/Retail-Sales-Profitability-Dashboard.twbx)
+
 ## Project Objective
 
 The goal of this project is to turn retail operational data into clear visual insights that support product, sales, and business-performance decisions.
@@ -53,20 +57,23 @@ The dashboard brings product, customer-segment, operational-cost, geographic, an
 
     retail-sales-profitability-tableau/
     ├── README.md
+    ├── workbook/
+    │   └── Retail-Sales-Profitability-Dashboard.twbx
     ├── data/
     │   └── README.md
     └── images/
         └── .gitkeep
 
-The live Tableau Public dashboard is the primary interactive project artifact. A final dashboard image can be added to the images folder after the published layout is finalized.
+The live Tableau Public dashboard is the primary interactive project artifact. The repository also includes the packaged Tableau workbook with its embedded Hyper extract for reviewers who want to inspect the workbook structure. A final dashboard image can be added to the images folder after the published layout is finalized.
 
 ## How to Explore the Project
 
-1. Open the Tableau Public link above.
-2. Compare product sales across product type and gender.
-3. Examine the cost-versus-production-volume relationship.
-4. Use the map to compare geographic sales distribution.
-5. Compare revenue and sales volume across product categories and segments.
+1. Open the Tableau Public link above for the interactive dashboard.
+2. Download the TWBX if you want to inspect the workbook, worksheets, and embedded data in Tableau Desktop or Tableau Public Desktop Edition.
+3. Compare product sales across product type and gender.
+4. Examine the cost-versus-production-volume relationship.
+5. Use the map to compare geographic sales distribution.
+6. Compare revenue and sales volume across product categories and segments.
 
 ## Interview Explanation
 
