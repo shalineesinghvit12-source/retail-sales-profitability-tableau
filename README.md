@@ -6,6 +6,8 @@ An interactive Tableau portfolio project focused on retail sales performance, re
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/shalinee.singh6168/viz/RetailSalesProfitabilityDashboard-Polished/Dashboard3)
 
+[![Retail Sales and Profitability dashboard overview](images/dashboard-overview.svg)](https://public.tableau.com/app/profile/shalinee.singh6168/viz/RetailSalesProfitabilityDashboard-Polished/Dashboard3)
+
 ## Download the Tableau Workbook
 
 [Download the packaged TWBX workbook](workbook/Retail-Sales-Profitability-Dashboard.twbx)
