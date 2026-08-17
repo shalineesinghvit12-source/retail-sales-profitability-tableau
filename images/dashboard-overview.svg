@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">Retail Sales and Profitability Dashboard overview</title>
+<desc id="desc">Portfolio overview showing product demand, customer segments, cost and production volume, geographic sales, and revenue analysis.</desc>
+<rect width="1200" height="630" fill="#f8f6f2"/>
+<rect x="0" y="0" width="1200" height="112" fill="#263b37"/>
+<text x="64" y="55" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff">Retail Sales &amp; Profitability</text>
+<text x="64" y="86" font-family="Arial,sans-serif" font-size="18" fill="#cfe2d8">Tableau dashboard • Segmentation • Operations • Geographic analysis</text>
+<g font-family="Arial,sans-serif">
+<rect x="64" y="150" width="510" height="180" rx="14" fill="#ffffff" stroke="#ded9cf"/>
+<text x="88" y="190" font-size="18" font-weight="700" fill="#263b37">Product Demand by Segment</text>
+<rect x="90" y="285" width="70" height="24" fill="#2a9d8f"/><rect x="160" y="285" width="45" height="24" fill="#e9c46a"/>
+<rect x="90" y="245" width="135" height="24" fill="#2a9d8f"/><rect x="225" y="245" width="85" height="24" fill="#e9c46a"/>
+<rect x="90" y="205" width="205" height="24" fill="#2a9d8f"/><rect x="295" y="205" width="120" height="24" fill="#e9c46a"/>
+<rect x="614" y="150" width="522" height="180" rx="14" fill="#ffffff" stroke="#ded9cf"/>
+<text x="638" y="190" font-size="18" font-weight="700" fill="#263b37">Cost vs Production Volume</text>
+<circle cx="680" cy="275" r="8" fill="#e76f51"/><circle cx="735" cy="250" r="10" fill="#e76f51"/><circle cx="790" cy="265" r="7" fill="#e76f51"/><circle cx="850" cy="220" r="11" fill="#e76f51"/><circle cx="925" cy="235" r="8" fill="#e76f51"/><circle cx="1030" cy="195" r="12" fill="#e76f51"/>
+<line x1="665" y1="290" x2="1060" y2="185" stroke="#263b37" stroke-width="3" opacity=".45"/>
+<rect x="64" y="370" width="510" height="170" rx="14" fill="#ffffff" stroke="#ded9cf"/>
+<text x="88" y="410" font-size="18" font-weight="700" fill="#263b37">Geographic Sales Distribution</text>
+<path d="M110 485 C160 425,225 455,270 430 C325 400,390 430,435 405 C475 390,520 425,535 485 C430 510,220 520,110 485Z" fill="#dceee7" stroke="#77a795" stroke-width="3"/>
+<circle cx="210" cy="470" r="12" fill="#2a9d8f"/><circle cx="315" cy="445" r="18" fill="#2a9d8f"/><circle cx="430" cy="460" r="10" fill="#2a9d8f"/>
+<rect x="614" y="370" width="522" height="170" rx="14" fill="#ffffff" stroke="#ded9cf"/>
+<text x="638" y="410" font-size="18" font-weight="700" fill="#263b37">Revenue &amp; Sales Volume</text>
+<rect x="660" y="475" width="55" height="42" fill="#264653"/><rect x="735" y="445" width="55" height="72" fill="#264653"/><rect x="810" y="420" width="55" height="97" fill="#264653"/><rect x="885" y="460" width="55" height="57" fill="#264653"/><rect x="960" y="435" width="55" height="82" fill="#264653"/>
+<text x="64" y="590" font-size="18" font-weight="700" fill="#2a9d8f">View the interactive dashboard on Tableau Public →</text>
+</g></svg>
